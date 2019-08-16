@@ -1,5 +1,5 @@
 {
-  "name": "captainhook/plugin-composer",
+  "name": "sashas777/plugin-composer",
   "description": "Composer-Plugin handling your git-hooks",
   "type": "composer-plugin",
   "license": "MIT",
@@ -16,7 +16,7 @@
   "require": {
     "php": "^7.1",
     "composer-plugin-api": "^1.1",
-    "captainhook/captainhook": "^4.0"
+    "sashas777/captainhook": "^4.0"
   },
   "require-dev": {
     "composer/composer": "*"
